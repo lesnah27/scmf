@@ -40,7 +40,7 @@
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
 
                 </div>
-      <!-- Inicio Texte -->
+
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
                         <div class="p-6">
@@ -54,7 +54,7 @@
                         </div>
                     </div>
                 </div>
-      <!-- final Texte  -->
+
                 <div class="flex justify-center mt-4 sm:items-center sm:justify-between">
                     <div class="text-center text-sm text-gray-500 sm:text-left">
 
